@@ -24,8 +24,8 @@ class config:
 
     #Info
     BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 👀"
-    OWNER_ID = 8574354949
-    OWNER_USERNAME = "8574354949"
+    OWNER_ID = 8548949548
+    OWNER_USERNAME = "@ll_RUHAN_ll"
     SUPPORT_CHAT = -1003329215246
     SUPPORT_CHAT_USERNAME = "https://t.me/AuraRuhan"
     SUPPORT_CHAT_LINK = "https://t.me/AuraRuhan"
@@ -34,10 +34,10 @@ class config:
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://i.ibb.co/6cMsyQz9/photo-2026-01-28-12-29-45-7600388691235700744.jpg"
-    START_IMG_URL = "https://i.ibb.co/6cMsyQz9/photo-2026-01-28-12-29-45-7600388691235700744.jpg"
-    HELP_IMG_URL = "https://i.ibb.co/tpGGS4sF/photo-2026-01-28-12-29-46-7600388897394130952.jpg"
-    ALIVE_IMG_URL = "https://i.ibb.co/tpGGS4sF/photo-2026-01-28-12-29-46-7600388897394130952.jpg"
+    STATS_IMG_URL = "https://files.catbox.moe/wui3xl.jpg"
+    START_IMG_URL = "https://files.catbox.moe/mvbtik.jpg"
+    HELP_IMG_URL = "https://files.catbox.moe/czga3t.jpg"
+    ALIVE_IMG_URL = "https://files.catbox.moe/wui3xl.jpg"
 
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
