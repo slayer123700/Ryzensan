@@ -280,7 +280,7 @@ async def handle_main_menu_callback(client, query: CallbackQuery):
 @app.on_message(filters.command(["start" , "help"], prefixes=config.COMMAND_PREFIXES) & filters.group)
 async def start_command(client, message: Message):
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("Sᴛᴀʀᴛ ɪɴ ᴘᴍ", url="https://t.me/Ryzen_xbot?start=help")]
+        [InlineKeyboardButton("Sᴛᴀʀᴛ ɪɴ ᴘᴍ", url="https://t.me/veloramusicbot?start=help")]
     ])
     await message.reply(
         text=f"**𝖧𝖾𝗅𝗅𝗈, {message.from_user.first_name} <3**\n"
