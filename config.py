@@ -23,7 +23,7 @@ class config:
 
 
     #Info
-    BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 👀"
+    BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 "
     OWNER_ID = 8574354949
     OWNER_USERNAME = "8574354949"
     SUPPORT_CHAT = -1003329215246
