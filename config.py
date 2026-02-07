@@ -24,7 +24,7 @@ class config:
 
     #Info
     BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 👀"
-    OWNER_ID = 8548949548
+    OWNER_ID = 6018803920
     OWNER_USERNAME = "NottyBcha"
     SUPPORT_CHAT = -1002333824980
     SUPPORT_CHAT_USERNAME = "Mahabharat_Chat"
