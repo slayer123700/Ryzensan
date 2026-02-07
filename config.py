@@ -7,8 +7,8 @@ class config:
     API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
     BOT_TOKEN = "8574354949:AAECJ0rGRU7XSOIxuPy4SB8pjOSk9dnFb3k"
     BOT_NAME = "「 ʀʏᴢᴇɴ ᴋᴜʀᴏᴋᴀᴍɪ 」"
-    BOT_USERNAME = "veloramusicbot"
-    BOT_ID = 8574354949
+    BOT_USERNAME = "8212996914:AAGvwAjyxRx4UicFCWZEzWIVTimUD0jHjDM"
+    BOT_ID = 8212996914
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -25,12 +25,12 @@ class config:
     #Info
     BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 👀"
     OWNER_ID = 8548949548
-    OWNER_USERNAME = "@ll_RUHAN_ll"
-    SUPPORT_CHAT = -1003329215246
-    SUPPORT_CHAT_USERNAME = "https://t.me/AuraRuhan"
-    SUPPORT_CHAT_LINK = "https://t.me/AuraRuhan"
-    LOG_CHANNEL = -1003329215246
-    ERROR_LOG_CHANNEL = -1003329215246
+    OWNER_USERNAME = "NottyBcha"
+    SUPPORT_CHAT = -1002333824980
+    SUPPORT_CHAT_USERNAME = "https://t.me/+dvl63f_hscBjZDY1n"
+    SUPPORT_CHAT_LINK = "https://t.me/+dvl63f_hscBjZDY1"
+    LOG_CHANNEL = -1003830570193
+    ERROR_LOG_CHANNEL = -1003830570193
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
