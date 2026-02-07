@@ -7,7 +7,7 @@ class config:
     API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
     BOT_TOKEN = "8574354949:AAECJ0rGRU7XSOIxuPy4SB8pjOSk9dnFb3k"
     BOT_NAME = "「 ʀʏᴢᴇɴ ᴋᴜʀᴏᴋᴀᴍɪ 」"
-    BOT_USERNAME = "8212996914:AAGvwAjyxRx4UicFCWZEzWIVTimUD0jHjDM"
+    BOT_USERNAME = "Ryzen_xbot"
     BOT_ID = 8212996914
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
