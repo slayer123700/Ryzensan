@@ -24,11 +24,11 @@ class config:
 
     #Info
     BOT_VERSION = "𝐒𝐋𝐀𝐘𝐄𝐑 "
-    OWNER_ID = 8574354949
-    OWNER_USERNAME = "8574354949"
+    OWNER_ID = 8548949548
+    OWNER_USERNAME = "ll_RUHAN_ll"
     SUPPORT_CHAT = -1003329215246
-    SUPPORT_CHAT_USERNAME = "https://t.me/AuraRuhan"
-    SUPPORT_CHAT_LINK = "https://t.me/AuraRuhan"
+    SUPPORT_CHAT_USERNAME = "https://t.me/veloramusicsupport"
+    SUPPORT_CHAT_LINK = "https://t.me/veloramusicsupport"
     LOG_CHANNEL = -1003329215246
     ERROR_LOG_CHANNEL = -1003329215246
     DOWNLOAD_LOCATION = "./downloads"
