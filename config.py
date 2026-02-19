@@ -5,7 +5,7 @@ class config:
     #Client
     API_ID = 26249286
     API_HASH = "4e3bf0b014fda4ac752e8f4ab854279b"
-    BOT_TOKEN = "8212996914:AAGvwAjyxRx4UicFCWZEzWIVTimUD0jHjDM"
+    BOT_TOKEN = ""
     BOT_NAME = "「 ʀʏᴢᴇɴ ᴋᴜʀᴏᴋᴀᴍɪ 」"
     BOT_USERNAME = "Ryzen_xbot"
     BOT_ID = 8212996914
